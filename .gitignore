@@ -18,6 +18,9 @@ ressources/
 data/*.h5
 venv/
 .venv/
+.ruff_cache
+.ipynb_checkpoints/
+.vscode/
 
 ################################
 ########### PYTHON #############
