@@ -1,2 +1,1 @@
-edited inside maste
-r
+from master
